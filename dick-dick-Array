@@ -22,7 +22,7 @@ local RayFieldQuality = {}
 local RayfieldLibrary = {
 	Flags = {},
 	Theme = {
-		Default = {
+		Nigga = {
 			TextFont = "Default", -- Default will use the various font faces used across Rayfield
 			TextColor = Color3.fromRGB(240, 240, 240),
 
