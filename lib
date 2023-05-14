@@ -49,12 +49,12 @@ local RayfieldLibrary = {
 			SliderStroke = Color3.fromRGB(48, 119, 177),
 
 			ToggleBackground = Color3.fromRGB(30, 30, 30),
-			ToggleEnabled = Color3.fromRGB(250,250,250),
-			ToggleDisabled = Color3.fromRGB(100, 100, 100),
-			ToggleEnabledStroke = Color3.fromRGB(0, 170, 255),
-			ToggleDisabledStroke = Color3.fromRGB(125, 125, 125),
-			ToggleEnabledOuterStroke = Color3.fromRGB(100, 100, 100),
-			ToggleDisabledOuterStroke = Color3.fromRGB(65, 65, 65),
+			ToggleEnabled = Color3.fromRGB(255,255,255),
+			ToggleDisabled = Color3.fromRGB(10, 10, 10),
+			ToggleEnabledStroke = Color3.fromRGB(255, 255, 255),
+			ToggleDisabledStroke = Color3.fromRGB(9, 9, 9),
+			ToggleEnabledOuterStroke = Color3.fromRGB(255, 255, 255),
+			ToggleDisabledOuterStroke = Color3.fromRGB(8,8,8),
 
 			InputBackground = Color3.fromRGB(30, 30, 30),
 			InputStroke = Color3.fromRGB(65, 65, 65),
